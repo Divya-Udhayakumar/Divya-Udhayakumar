@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Divya-Udhayakumar/Divya-Udhayakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Divya Udhayakumar
 [![Linkedin Badge](https://img.shields.io/badge/-naveenhonestraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveenhonestraj/)](https://www.linkedin.com/in/naveenhonestraj/) [![Gmail Badge](https://img.shields.io/badge/-divyacsengineer3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyacsengineer3@gmail.com)](mailto:divyacsengineer3@gmail.com)
 
