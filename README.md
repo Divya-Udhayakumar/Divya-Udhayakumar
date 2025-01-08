@@ -1,14 +1,28 @@
-### Hi there 👋
+## Hi there 👋  
+I'm [Divya Udhayakumar]!  
 
-# Divya Udhayakumar
-[![Linkedin Badge](https://img.shields.io/badge/-naveenhonestraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveenhonestraj/)](https://www.linkedin.com/in/naveenhonestraj/) [![Gmail Badge](https://img.shields.io/badge/-divyacsengineer3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyacsengineer3@gmail.com)](mailto:divyacsengineer3@gmail.com)
+I'm a passionate **Product Manager**, **Automation Developer**, and a lifelong learner with a keen interest in **AI** and all things tech! 🚀 I love turning complex challenges into seamless, user-centric solutions.  
 
-## Hi 👋
-I'm Divya Udhayakumar, I'm a curious little product enthusiast & Automation developer 💻 
+### 🌟 What I do  
+- **Product Management**: Crafting roadmaps, defining visions, and ensuring product success.  
+- **Product Automation**: Simplifying workflows and automating processes to drive efficiency.  
+- **AI Enthusiast**: Exploring how AI can transform industries and solve real-world problems.  
 
-- 💬  Ask me about: tech, tv-shows, movies
--  ⚡  Power Language: Python, Ruby
--  🐦 I tweet very often. You can follow me [@nav_devl](https://twitter.com/nav_devl)
+### 💡 A little more about me  
+- 💬 **Ask me about**: Tech trends, product strategies, automation tips, and must-watch TV shows or movies!  
+- 🌱 **Currently exploring**: Leveraging **AI** for product innovation, metrics, chatbots, and automation. 
+- 🪴 **Fun fact**: I’m a plant lover! Ask me for tips on balcony-friendly, low-maintenance greenery. 🌱  
 
-## Favourite quote
-Before software can be reusable it first has to be usable.
+### ⚡ Favourite Quote  
+> "AI is like a toddler with superpowers—teach it well, and it can change the world."  
+
+### 🛠️ Tools & Technologies  
+- **Languages**: Java, Python, JavaScript  
+- **Frameworks**: Playwright, Selenium, Cucumber 
+- **Product Management**: JIRA, Confluence, Trello, Notion, Asana, Miro, Figma  
+- **Platforms**: Azure, GitHub Actions  
+
+### 📈 Let's Connect  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/divya-udhayakumar/)  
+
+Thanks for stopping by! Feel free to connect, collaborate, or just say hi! 😊 
