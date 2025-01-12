@@ -18,8 +18,8 @@ I'm a passionate **Product Manager**, **Automation Developer**, and a lifelong l
 
 ### 🛠️ Tools & Technologies  
 - **Languages**: Java, Python, JavaScript  
-- **Frameworks**: Playwright, Selenium, Cucumber 
-- **Product Management**: JIRA, Confluence, Trello, Notion, Asana, Miro, Figma  
+- **Frameworks**: Playwright, Selenium, Cucumber, cypress, appiym 
+- **Product Management**: JIRA, Confluence, Trello, GoogleAnalytics, Mixpannel , Miro, Figma  
 - **Platforms**: Azure, GitHub Actions  
 
 ### 📈 Let's Connect  
